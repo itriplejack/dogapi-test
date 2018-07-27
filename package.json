@@ -1,6 +1,6 @@
 {
-  "name": "itisatest",
-  "version": "1.0.4",
+  "name": "dogapi-test",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
