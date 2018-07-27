@@ -1,0 +1,32 @@
+{
+  "name": "dogapi-test",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itriplejack/dogapi-test.git"
+  },
+  "dependencies": {
+    "cloudscraper": "1.4.1",
+    "crypto-js": "3.1.9-1",
+    "fetch-ponyfill": "4.1.0",
+    "qs": "6.5.1"
+  },
+  "author": {
+    "name": "TEST",
+    "email": "igor.kroitor@gmail.com",
+    "url": "https://github.com/DataDog"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itriplejack/dogapi-test/issues"
+  }
+ 
+
+}
